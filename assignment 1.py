@@ -1,6 +1,7 @@
 import cv2
 import mediapipe as mp
 import numpy as np
+# assignments of face recognition
 
 
 mp_drawing = mp.solutions.drawing_utils
